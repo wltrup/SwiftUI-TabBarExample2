@@ -13,10 +13,6 @@ It doesn't replicate the YouTube video's result *exactly* but the differences ar
 
 ![demo](TabBar2.gif)
 
-## Author ##
-
-Wagner Truppel, trupwl@gmail.com
-
 ## License ##
 
 **TabBarExample2** is available under the MIT license. See the LICENSE file for
